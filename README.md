@@ -29,6 +29,18 @@ Architecture Overview
 | Database     | Room (local) + Firestore (cloud sync) 
 
 
+Feature Checklist
+
+User registration and login with encrypted password
+Single Sign-On (Google SSO)
+Settings screen with editable preferences
+REST API integration via Firebase backend
+Offline mode with RoomDB sync
+Real-time push notifications using Firebase Cloud Messaging
+Multi-language support (English + setswana)
+Innovative features from Part 1 implemented
+App icon and final image assets included
+
 
 How to Run the App
 
