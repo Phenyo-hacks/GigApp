@@ -94,7 +94,7 @@ Video Presentation
 
 🎥 [Watch the Demo on YouTube](https://youtu.be/your-video-id) 
 
-Includes voice-over walkthrough of all features and architecture.
+
 
 
 
