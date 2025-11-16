@@ -79,7 +79,7 @@ Updates Since Prototype
 |  Gig Stats Card           | Shows completed gigs, applications, and earnings 
 |  Navigation Architecture  | Split into NavGraph.kt and BottomNavGraph.kt for modular routing 
 
-Screenshots
+
 
 
 - ![Home Screen]  
